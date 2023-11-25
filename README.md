@@ -1,4 +1,4 @@
-# jimakuchan-LocalMod
+# jimakuChan-LocalMod
 This repository contains programs that allow you to run "jimakuchan" in your local environment.
 
 ## How to use?
